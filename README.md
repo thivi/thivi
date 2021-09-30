@@ -33,7 +33,7 @@
 - [Bowling not entirely to blame](https://www.islandcricket.lk/editorial/bowling-not-entirely-to-blame/)
 - [Sports minister’s antics underlines need to change Sri Lanka’s sports law](https://www.islandcricket.lk/editorial/sports-ministers-antics-underlines-need-to-change-sri-lankas-sports-law/)
 - [How foolish of Sri Lanka’s selectors to leave Kusal Mendis behind](https://www.islandcricket.lk/editorial/how-foolish-of-sri-lankas-selectors-to-leave-kusal-mendis-behind/)
-- [https://www.islandcricket.lk/editorial/in-transition-no-more/](https://www.islandcricket.lk/editorial/in-transition-no-more/)
+- [In transition no more?](https://www.islandcricket.lk/editorial/in-transition-no-more/)
 - [Can Chandika Hathurusingha spark a revival?](https://www.islandcricket.lk/editorial/can-chandika-hathurusingha-spark-a-revival/)
 
 
