@@ -16,6 +16,7 @@
 - [Azure AD as IdP](https://youtu.be/CcrfMKLQq94)
 
 ## ✍️ Blog Posts
+This section lists down the articles published elsewhere other than on my blogs listed [here](#-my-blogs).
 ### 💻 Tech
 - [Common Developer Errors to Avoid in a CIAM Strategy](https://wso2.com/blogs/thesource/common-developer-errors-to-avoid-in-a-ciam-strategy/)
 - [How We Built Our Console App](https://wso2.com/blogs/thesource/how-we-built-our-console-app/)
