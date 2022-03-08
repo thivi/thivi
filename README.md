@@ -21,7 +21,7 @@ This section lists down the articles published elsewhere other than on my blogs 
 - [Common Developer Errors to Avoid in a CIAM Strategy](https://wso2.com/blogs/thesource/common-developer-errors-to-avoid-in-a-ciam-strategy/)
 - [How We Built Our Console App](https://wso2.com/blogs/thesource/how-we-built-our-console-app/)
 - [Leveraging Web Workers to Safely Store Access Tokens](https://thenewstack.io/leveraging-web-workers-to-safely-store-access-tokens/)
-
+- [How to Optimize Customer Identity and Access Management](https://thenewstack.io/how-to-optimize-customer-identity-and-access-management/)
 
 ### 🏏 Cricket 
 
