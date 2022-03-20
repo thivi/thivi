@@ -9,7 +9,7 @@
 - [Azure AD Federation with WSO2 Identity Server #Identityin15](https://www.youtube.com/watch?v=ycIplHrB6a4)
 - [Building a Single Page Application with OIDC authentication #Identityin15](https://www.youtube.com/watch?v=HPneV0xpm8U)
 - [Authentication SDKs Using WSO2 Identity Server - WSO2 Identity Server Community Call - 8/28/2020](https://youtu.be/hM2FBgKCi0s?t=1744)
-- [How to configure Single Sign-On with WSO2 Identity Server](https://www.youtube.com/watch?v=XksczG8zLyw)
+- [How to add Facebook login to WSO2 Identity Server](https://www.youtube.com/watch?v=7nZr2NOUDik)
 - [Social Login](https://youtu.be/v7AQpkLFq_A)
 - [MFA](https://youtu.be/i_p0nYtguEs)
 - [FIDO](https://youtu.be/5d-wV6ufBXY)
