@@ -14,6 +14,7 @@
 - [MFA](https://youtu.be/i_p0nYtguEs)
 - [FIDO](https://youtu.be/5d-wV6ufBXY)
 - [Azure AD as IdP](https://youtu.be/CcrfMKLQq94)
+- [Passwordless login using Asgardeo](https://youtu.be/Aq1mDC0d5Bc)
 
 ## ✍️ Blog Posts
 This section lists down the articles published elsewhere other than on my blogs listed [here](#-my-blogs).
