@@ -15,6 +15,7 @@
 - [FIDO](https://youtu.be/5d-wV6ufBXY)
 - [Azure AD as IdP](https://youtu.be/CcrfMKLQq94)
 - [Passwordless login using Asgardeo](https://youtu.be/Aq1mDC0d5Bc)
+- [How to add magic link authentication with Asgardeo](https://www.youtube.com/watch?v=Z8s-yxujoYU)
 
 ## ✍️ Blog Posts
 This section lists down the articles published elsewhere other than on my blogs listed [here](#-my-blogs).
