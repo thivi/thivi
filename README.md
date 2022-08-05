@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 [![Thivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thivi&count_private=true&show_icons=true&line_height=40)](https://github.com/thivi/thivi/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5)](https://github.com/thivi/thivi/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5&exclude_repo=swarm-robotics-blockchain)](https://github.com/thivi/thivi/)
  
 ## :movie_camera: Vlogs
 - [Integrating Office 365 with WSO2 Identity Server, #Identityin15](https://www.youtube.com/watch?v=Czxf1o0wp_Y)
