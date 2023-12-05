@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-[![Thivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thivi&count_private=true&show_icons=true&line_height=40)](https://github.com/thivi/thivi/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5&exclude_repo=swarm-robotics-blockchain)](https://github.com/thivi/thivi/)
+[![Thivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thivi&count_private=true&show_icons=true&line_height=40&theme=transparent&text_color=2982ff&icon_color=2982ff)](https://github.com/thivi/thivi/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5&exclude_repo=swarm-robotics-blockchain&theme=transparent&text_color=2982ff&icon_color=2982ff)](https://github.com/thivi/thivi/)
 
 ## 🔬Publications
 - "**Maximizing the Runs Scored by a Team in Cricket using Genetic AlgorithmMaximizing the Runs Scored by a Team in Cricket using Genetic Algorithm**",  International Journal of Electrical and Computer Engineering Research, Volume 3, Issue 3, pp 7-12, 2023. DOI: https://doi.org/10.53375/ijecer.2023.346.
