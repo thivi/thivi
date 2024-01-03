@@ -4,6 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5&exclude_repo=swarm-robotics-blockchain&theme=transparent&text_color=2982ff&icon_color=2982ff)](https://github.com/thivi/thivi/)
 
 ## 🔬Publications
+- "**A Survey of Applications of Blockchain in Collective Decision-Making Scenarios in Swarm Robotics**", Journal of Innovation Information Technology and Application, Volume 5, Issue 2, pp 124-129, 202. DOI: https://doi.org/10.35970/jinita.v5i2.1950. [🔗Read](https://ejournal.pnc.ac.id/index.php/jinita/article/view/1950)
 - "**Maximizing the Runs Scored by a Team in Cricket using Genetic Algorithm**",  International Journal of Electrical and Computer Engineering Research, Volume 3, Issue 3, pp 7-12, 2023. DOI: https://doi.org/10.53375/ijecer.2023.346.
  [🔗Read](https://ijecer.org/ijecer/article/view/346)
 - "**Improving Byzantine Fault Tolerance in Swarm Robotics Collective Decision-making Scenario via a New Blockchain Consensus Algorithm**", ICTACT Journal on Soft Computing, Volume 13, Issue 4, pp 3027-3033, 2023. DOI: http://doi.org/10.21917/ijsc.2023.0423.
