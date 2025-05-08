@@ -7,7 +7,7 @@
 - "**A Survey of Applications of Blockchain in Collective Decision-Making Scenarios in Swarm Robotics**", Journal of Innovation Information Technology and Application, Volume 5, Issue 2, pp 124-129, 202. DOI: https://doi.org/10.35970/jinita.v5i2.1950. [🔗Read](https://ejournal.pnc.ac.id/index.php/jinita/article/view/1950).
 - "**Maximizing the Runs Scored by a Team in Cricket using Genetic Algorithm**",  International Journal of Electrical and Computer Engineering Research, Volume 3, Issue 3, pp 7-12, 2023. DOI: https://doi.org/10.53375/ijecer.2023.346.
  [🔗Read](https://ijecer.org/ijecer/article/view/346).
-- "**Improving Byzantine Fault Tolerance in Swarm Robotics Collective Decision-making Scenario via a New Blockchain Consensus Algorithm**", ICTACT Journal on Soft Computing, Volume 13, Issue 4, pp 3027-3033, 2023. DOI: http://doi.org/10.21917/ijsc.2023.0423.
+- "**Improving Byzantine Fault Tolerance in Swarm Robotics Collective Decision-making Scenario via a New Blockchain Consensus Algorithm**", ICTACT Journal on Soft Computing, Volume 13, Issue 4, pp 3027-3033, 2023. DOI: http://doi.org/10.21917/ijsc.2023.0426.
   [🔗Read](https://ictactjournals.in/ArticleDetails.aspx?id=13687).
 - "**A Review of the Consensus Achievement Strategies in the Context of Swarm Robotics**", Modern Intelligent Times, Volume 1, Issue 1, 2023. DOI: https://doi.org/10.53964/mit.2023001.
   [🔗Read](https://www.innovationforever.com/article.MIT20230002).
