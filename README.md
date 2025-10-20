@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thivi&langs_count=5&exclude_repo=swarm-robotics-blockchain&theme=transparent&text_color=2982ff&icon_color=2982ff)](https://github.com/thivi/thivi/)
 
 ## 🔬Publications
-- "**A Survey of Applications of Blockchain in Collective Decision-Making Scenarios in Swarm Robotics**", Journal of Innovation Information Technology and Application, Volume 5, Issue 2, pp 124-129, 202. DOI: https://doi.org/10.35970/jinita.v5i2.1950. [🔗Read](https://ejournal.pnc.ac.id/index.php/jinita/article/view/1950).
+-"**OpenRASE: Service Function Chain Emulation**", International Conference on Software, Telecommunications and Computer Networks (SoftCOM), Split, Croatia, 2025. DOI:.
+- "**A Survey of Applications of Blockchain in Collective Decision-Making Scenarios in Swarm Robotics**", Journal of Innovation Information Technology and Application, Volume 5, Issue 2, pp 124-129, 2023. DOI: https://doi.org/10.35970/jinita.v5i2.1950. [🔗Read](https://ejournal.pnc.ac.id/index.php/jinita/article/view/1950).
 - "**Maximizing the Runs Scored by a Team in Cricket using Genetic Algorithm**",  International Journal of Electrical and Computer Engineering Research, Volume 3, Issue 3, pp 7-12, 2023. DOI: https://doi.org/10.53375/ijecer.2023.346.
  [🔗Read](https://ijecer.org/ijecer/article/view/346).
 - "**Improving Byzantine Fault Tolerance in Swarm Robotics Collective Decision-making Scenario via a New Blockchain Consensus Algorithm**", ICTACT Journal on Soft Computing, Volume 13, Issue 4, pp 3027-3033, 2023. DOI: http://doi.org/10.21917/ijsc.2023.0426.
@@ -15,7 +16,7 @@
 - "**Proof of identity - a blockchain consensus algorithm to create a dynamically permissioned blockchain**", International Journal of Blockchains and Cryptocurrencies, Volume 3, Issue 4, pp 289-301, 2023. DOI: https://doi.org/10.1504/IJBC.2022.128888. [🔗Read](https://www.inderscienceonline.com/doi/abs/10.1504/IJBC.2022.128888).
 - "**Computing the Runs that Should Be Scored Every over When Chasing a Target in Limited-overs Cricket Using the A\* Algorithm**", Applied Artificial Intelligence, Volume 35, Issue 15, pp 2087-2101, 2021. DOI: https://doi.org/10.1080/08839514.2021.1999011. [🔗Read](https://www.tandfonline.com/doi/full/10.1080/08839514.2021.1999011).
 - "**BlockFlow: A decentralized SDN controller using blockchain**", International Journal of Scientific and Research Publications, Volume 10, Issue 3, pp 751-756, 2020. DOI: http://dx.doi.org/10.29322/IJSRP.10.03.2020.p9991. [🔗Read](http://www.ijsrp.org/research-paper-0320.php?rp=P999830).
-- "**Policies Based Container Migration Using Cross-Cloud Management Platform**", International Conference on Information and Automation for Sustainability (ICIAfS), 2018. DOI: https://doi.org/10.1109/ICIAFS.2018.8913336. [🔗Read](https://ieeexplore.ieee.org/document/8913336).
+- "**Policies Based Container Migration Using Cross-Cloud Management Platform**", International Conference on Information and Automation for Sustainability (ICIAfS), Colombo, Sri Lanka, 2018. DOI: https://doi.org/10.1109/ICIAFS.2018.8913336. [🔗Read](https://ieeexplore.ieee.org/document/8913336).
 ## :movie_camera: Vlogs
 - [Integrating Office 365 with WSO2 Identity Server, #Identityin15](https://www.youtube.com/watch?v=Czxf1o0wp_Y)
 - [Adding social login buttons to your website #Identityin15](https://www.youtube.com/watch?v=vsBTweSjVRE)
